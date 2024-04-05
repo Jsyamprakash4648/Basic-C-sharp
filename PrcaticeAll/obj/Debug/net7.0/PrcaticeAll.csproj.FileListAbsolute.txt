@@ -1,0 +1,15 @@
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\bin\Debug\net7.0\PrcaticeAll.exe
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\bin\Debug\net7.0\PrcaticeAll.deps.json
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\bin\Debug\net7.0\PrcaticeAll.runtimeconfig.json
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\bin\Debug\net7.0\PrcaticeAll.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\bin\Debug\net7.0\PrcaticeAll.pdb
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.csproj.AssemblyReference.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.AssemblyInfoInputs.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.AssemblyInfo.cs
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.csproj.CoreCompileInputs.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\refint\PrcaticeAll.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.pdb
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\PrcaticeAll.genruntimeconfig.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\Assignments\PrcaticeAll\obj\Debug\net7.0\ref\PrcaticeAll.dll
